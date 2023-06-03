@@ -1,0 +1,6 @@
+pypdf
+docx2txt
+openai
+python-dotenv
+gpt_index
+gradio
