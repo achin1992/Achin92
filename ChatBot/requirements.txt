@@ -1,6 +1,6 @@
-pypdf
-docx2txt
-openai
-python-dotenv
-gpt_index
-gradio
+pypdf==3.9.0
+docx2txt==0.8
+openai==0.27.7
+python-dotenv==1.0.0
+gpt_index==0.6.18
+gradio==3.33.1
